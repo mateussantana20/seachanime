@@ -1,5 +1,5 @@
 ## Projeto feito usando a api do Myanimelist:  https://jikan.moe/
-## Ultilizando React e styled-components
+## Ultilizando react e styled components
 
 
 
